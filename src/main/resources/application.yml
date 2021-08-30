@@ -1,0 +1,5 @@
+spring:
+  webflux:
+    base-path: /movies
+#  r2dbc:
+#    properties:
